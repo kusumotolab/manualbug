@@ -15,4 +15,3 @@ Depends:
 Imports:
 Suggests:
     testthat
-Remotes:
